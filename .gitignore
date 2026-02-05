@@ -1,0 +1,10 @@
+# datasets (do not upload)
+train.csv
+test.csv
+
+# jupyter
+.ipynb_checkpoints/
+
+# system
+.DS_Store
+
