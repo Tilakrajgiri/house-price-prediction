@@ -19,3 +19,9 @@ Lower Log RMSE indicates strong relative prediction accuracy.
 - `new practice.ipynb` – data preprocessing, training, and evaluation
 - `submission.csv` – model predictions
 - `.gitignore` – ignored datasets and system files
+
+## Future Work
+- Apply cross-validation for more robust evaluation
+- Perform hyperparameter tuning (GridSearch / RandomizedSearch)
+- Try Gradient Boosting models (XGBoost, LightGBM)
+- Analyze feature importance and model interpretability
